@@ -2,8 +2,43 @@
 
 * {
     font-family: 'Nunito', sans-serif;
+   
+}
+
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 header {
+    align-items: center;
+    display: flex;
+    width: 100%;
+    justify-content: space-between ;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.089);
+}
+
+header img {
+    padding-left: 100px;
     
 }
+
+header ul{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 100px;
+}
+
+header nav a {
+    text-decoration: none;   
+    font-weight: bold;
+}
+
+header ul li {
+    list-style-type: none;
+    padding: 20px;
+
+}
+
