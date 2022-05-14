@@ -39,6 +39,17 @@ header nav a {
 header ul li {
     list-style-type: none;
     padding: 20px;
-
 }
 
+div.fundo img {
+    position: relative;
+    
+}
+
+#button {
+    background-color: #FCA60F;
+    border: none;
+    padding: 0.7rem 3rem;
+    border-radius: 0.3rem;
+    color: white;
+}
