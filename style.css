@@ -11,6 +11,8 @@ body {
     margin-right: 0px;
 }
 
+/*============HEADER=============*/
+
 header {
     align-items: center;
     display: flex;
@@ -41,6 +43,9 @@ header ul li {
     padding: 20px;
 }
 
+
+/*============BACKGROUND=============*/
+
 div.fundo img {
     position: relative;
     
@@ -53,3 +58,5 @@ div.fundo img {
     border-radius: 0.3rem;
     color: white;
 }
+
+
